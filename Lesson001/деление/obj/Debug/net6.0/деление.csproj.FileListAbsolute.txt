@@ -1,0 +1,15 @@
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/bin/Debug/net6.0/деление
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/bin/Debug/net6.0/деление.deps.json
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/bin/Debug/net6.0/деление.runtimeconfig.json
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/bin/Debug/net6.0/деление.dll
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/bin/Debug/net6.0/ref/деление.dll
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/bin/Debug/net6.0/деление.pdb
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/obj/Debug/net6.0/деление.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/obj/Debug/net6.0/деление.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/obj/Debug/net6.0/деление.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/obj/Debug/net6.0/деление.AssemblyInfo.cs
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/obj/Debug/net6.0/деление.csproj.CoreCompileInputs.cache
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/obj/Debug/net6.0/деление.dll
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/obj/Debug/net6.0/ref/деление.dll
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/obj/Debug/net6.0/деление.pdb
+/home/alexey/Рабочий стол/Prakticum/Lesson001/деление/obj/Debug/net6.0/деление.genruntimeconfig.cache
