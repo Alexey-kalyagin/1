@@ -1,0 +1,15 @@
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/obj/Debug/net6.0/сложение.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/obj/Debug/net6.0/сложение.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/obj/Debug/net6.0/сложение.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/obj/Debug/net6.0/сложение.AssemblyInfo.cs
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/obj/Debug/net6.0/сложение.csproj.CoreCompileInputs.cache
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/bin/Debug/net6.0/сложение
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/bin/Debug/net6.0/сложение.deps.json
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/bin/Debug/net6.0/сложение.runtimeconfig.json
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/bin/Debug/net6.0/сложение.dll
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/bin/Debug/net6.0/ref/сложение.dll
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/bin/Debug/net6.0/сложение.pdb
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/obj/Debug/net6.0/сложение.dll
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/obj/Debug/net6.0/ref/сложение.dll
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/obj/Debug/net6.0/сложение.pdb
+/home/alexey/Рабочий стол/Prakticum/Lesson001/сложение/obj/Debug/net6.0/сложение.genruntimeconfig.cache
